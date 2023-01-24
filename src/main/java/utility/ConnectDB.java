@@ -1,4 +1,5 @@
-import utility.Utility;
+package utility;
+
 
 import java.sql.*;
 import java.util.ArrayList;
@@ -26,15 +27,7 @@ public class ConnectDB {
         return connect;
     }
 
-    /*public static MongoDatabase mongoDatabase = null;
 
-    public MongoDatabase connectToMongoDB() {
-        MongoClient mongoClient = new MongoClient("" , 27017);
-        mongoDatabase = mongoClient.getDatabase("");
-        System.out.println("Database Connected");
-
-        return mongoDatabase;
-    }*/
 
     public static List<String> getTableColumnData(String query, String columnName) {
         List<String> list = new ArrayList<>();

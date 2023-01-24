@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="FreeCRM test">
+<suite name="amazon test">
     <parameter name="useCloudEnv" value="false"></parameter>
 
     <parameter name="envName" value="browserstack"></parameter>
@@ -9,14 +9,12 @@
     <parameter name="browserVersion" value="100"></parameter>
 
     <parameter name="browserName" value="chrome"></parameter>
-    <parameter name="url" value="https://ui.cogmento.com/?lang=en-GB"></parameter>
-    <test name="freeCRM tests">
+    <parameter name="url" value="https://www.amazon.com/"></parameter>
+    <test name="amazon tests">
         <classes>
-            <class name="testFreeCRM.LoginTest"></class>
-            <class name="testFreeCRM.InvalidEmailErrorMessageTest"></class>
-            <class name="testFreeCRM.InvalidPasswordErrorMessageTest"></class>
-            <class name="testFreeCRM.FetchLeftMenuTest"></class>
-            <class name="testFreeCRM.BlankUsernameAndPasswordTest"></class>
+            <!--            <class name="test.TestLogin"></class>-->
+            <class name="test.TestSearch"></class>
+            <class name="test.TestPurchase"></class>
         </classes>
     </test>
 </suite>
