@@ -7,12 +7,12 @@ import org.apache.logging.log4j.Logger;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+public class InvalidEmailErrorMessageTest extends CommonAPI {
+    Logger LOG = LogManager.getLogger(testFreeCRM.LoginTest.class.getName());
 
-public class LoginTest extends CommonAPI {
-    Logger LOG = LogManager.getLogger(LoginTest.class.getName());
 
     @Test
-    public void validLoginTest() {
+    public void invalidEmailAddress() {
         LoginPage loginPage = new LoginPage(getDriver());
         //String email = ConnectDB.getTableColumnData("select * from cred","password").get(0);
 
@@ -20,9 +20,13 @@ public class LoginTest extends CommonAPI {
         Assert.assertEquals(title, "Cogmento CRM");
         LOG.info("login title page validation success");
 
-        loginPage.typeEmailAddress("tsrahman28@gmail.com");
-        loginPage.typePassword("Testaccount1@");
+        loginPage.typeEmailAddress("abc@j@gmail.com");
+        loginPage.typePassword("TestAccount1@");
         loginPage.clickOnLoginButton();
+
+        String error = loginPage.getErrorMessage();
+        Assert.assertEquals(error, "Something went wrong...");
+        LOG.info("error message validation success");
 
     }
 }

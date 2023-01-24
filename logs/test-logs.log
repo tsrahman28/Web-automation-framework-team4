@@ -1,0 +1,22 @@
+17:58:47.959 [main] INFO  testFreeCRM.LoginTest - login title page validation success
+17:58:48.175 [main] INFO  com.FreeCRM.pages.LoginPage - type email address success
+17:58:48.360 [main] INFO  com.FreeCRM.pages.LoginPage - type email address success
+17:58:48.448 [main] INFO  com.FreeCRM.pages.LoginPage - click login button success
+17:58:56.104 [main] INFO  testFreeCRM.LoginTest - login title page validation success
+17:58:56.250 [main] INFO  com.FreeCRM.pages.LoginPage - type email address success
+17:58:56.429 [main] INFO  com.FreeCRM.pages.LoginPage - type email address success
+17:58:56.562 [main] INFO  com.FreeCRM.pages.LoginPage - click login button success
+17:58:57.742 [main] INFO  testFreeCRM.LoginTest - error message validation success
+17:59:04.344 [main] INFO  testFreeCRM.LoginTest - login title page validation success
+17:59:04.522 [main] INFO  com.FreeCRM.pages.LoginPage - type email address success
+17:59:04.678 [main] INFO  com.FreeCRM.pages.LoginPage - type email address success
+17:59:04.755 [main] INFO  com.FreeCRM.pages.LoginPage - click login button success
+17:59:05.728 [main] INFO  testFreeCRM.LoginTest - error message validation success
+17:59:11.744 [main] INFO  com.FreeCRM.pages.LoginPage - type email address success
+17:59:11.924 [main] INFO  com.FreeCRM.pages.LoginPage - type email address success
+17:59:12.012 [main] INFO  com.FreeCRM.pages.LoginPage - click login button success
+17:59:18.685 [main] INFO  testFreeCRM.LoginTest - login title page validation success
+17:59:18.778 [main] INFO  com.FreeCRM.pages.LoginPage - type email address success
+17:59:18.862 [main] INFO  com.FreeCRM.pages.LoginPage - type email address success
+17:59:18.953 [main] INFO  com.FreeCRM.pages.LoginPage - click login button success
+17:59:19.302 [main] INFO  testFreeCRM.LoginTest - error message validation success
