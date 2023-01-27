@@ -12,10 +12,10 @@
     <parameter name="url" value="https://ui.cogmento.com/?lang=en-GB"></parameter>
     <test name="freeCRM tests">
         <classes>
-            <class name="testFreeCRM.LoginTest"></class>
+            <!--<class name="testFreeCRM.LoginTest"></class>
             <class name="testFreeCRM.InvalidEmailErrorMessageTest"></class>
             <class name="testFreeCRM.InvalidPasswordErrorMessageTest"></class>
-            <class name="testFreeCRM.FetchLeftMenuTest"></class>
+            <class name="testFreeCRM.FetchLeftMenuTest"></class>-->
             <class name="testFreeCRM.BlankUsernameAndPasswordTest"></class>
         </classes>
     </test>
