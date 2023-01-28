@@ -25,3 +25,174 @@
 13:59:10.043 [main] INFO  com.FreeCRM.pages.LoginPage - type email address success
 13:59:10.127 [main] INFO  com.FreeCRM.pages.LoginPage - click login button success
 13:59:10.988 [main] INFO  testFreeCRM.LoginTest - error message validation success
+18:56:00.829 [main] INFO  com.Magento.pages.HomePageMagento - click on signin button success
+18:56:00.852 [main] INFO  testMagento.TestSignin - login title page validation success
+18:56:01.181 [main] INFO  com.Magento.pages.SigninPageMagento - type email address success
+18:56:01.225 [main] INFO  com.Magento.pages.SigninPageMagento - type password success
+18:56:01.268 [main] INFO  com.Magento.pages.SigninPageMagento - click signin button success
+18:56:01.291 [main] INFO  testMagento.TestSignin - error message validation success
+18:56:05.070 [main] INFO  com.Magento.pages.HomePageMagento - click on signin button success
+18:56:05.090 [main] INFO  testMagento.TestSignin - login title page validation success
+18:56:05.172 [main] INFO  com.Magento.pages.SigninPageMagento - type email address success
+18:56:05.213 [main] INFO  com.Magento.pages.SigninPageMagento - type password success
+18:56:06.795 [main] INFO  com.Magento.pages.SigninPageMagento - click signin button success
+18:56:06.844 [main] INFO  testMagento.TestSignin - error message validation success
+18:56:09.927 [main] INFO  com.Magento.pages.HomePageMagento - click on signin button success
+18:56:09.935 [main] INFO  testMagento.TestSignin - Sign in title page validation success
+18:56:10.049 [main] INFO  com.Magento.pages.SigninPageMagento - type email address success
+18:56:10.106 [main] INFO  com.Magento.pages.SigninPageMagento - type password success
+18:56:10.149 [main] INFO  com.Magento.pages.SigninPageMagento - click signin button success
+18:56:10.149 [main] INFO  testMagento.TestSignin - Signin success
+18:56:13.509 [main] INFO  com.Magento.pages.HomePageMagento - click signin button success
+18:56:13.512 [main] INFO  testMagento.TestCreateNewAccount - create an account title page validation success
+18:56:13.619 [main] INFO  com.Magento.pages.CreatenewAccountPageMagento - type first name success
+18:56:13.674 [main] INFO  com.Magento.pages.CreatenewAccountPageMagento - type last name success
+18:56:13.715 [main] INFO  com.Magento.pages.CreatenewAccountPageMagento - type email address success
+18:56:13.755 [main] INFO  com.Magento.pages.CreatenewAccountPageMagento - type password success
+18:56:13.791 [main] INFO  com.Magento.pages.CreatenewAccountPageMagento - confirm password success
+18:56:13.836 [main] INFO  com.Magento.pages.CreatenewAccountPageMagento - click create account button success
+18:56:13.837 [main] INFO  testMagento.TestCreateNewAccount - Creation of an account success
+18:56:16.879 [main] INFO  com.Magento.pages.HomePageMagento - click on signin button success
+18:56:16.886 [main] INFO  testMagento.TestSearchandCompareItems - login title page validation success
+18:56:17.545 [main] INFO  com.Magento.pages.HomePageMagento - item name type and enter success
+18:56:17.548 [main] INFO  testMagento.TestSearchandCompareItems - searchwatch title page validation success
+18:56:17.696 [main] INFO  com.Magento.pages.SigninPageMagento - hover over Item1 success
+18:56:18.722 [main] INFO  com.Magento.pages.SigninPageMagento - click on add to compare button success
+18:56:19.033 [main] INFO  com.Magento.pages.SigninPageMagento - hover over Item2 success
+18:56:19.898 [main] INFO  com.Magento.pages.SigninPageMagento - click on add to compare button success
+18:56:21.002 [main] INFO  com.Magento.pages.SigninPageMagento - click on compare button success
+18:56:21.043 [main] INFO  com.Magento.pages.SigninPageMagento - click on add to cart button success
+18:56:24.187 [main] INFO  com.Magento.pages.HomePageMagento - click on signin button success
+18:56:24.195 [main] INFO  testMagento.TestCheckOutShoppingCart - login title page validation success
+18:56:24.296 [main] INFO  com.Magento.pages.HomePageMagento - item name type success
+18:56:26.261 [main] INFO  com.Magento.pages.HomePageMagento - click search success
+19:00:18.004 [main] INFO  com.Magento.pages.HomePageMagento - click on signin button success
+19:00:18.020 [main] INFO  testMagento.TestSignin - login title page validation success
+19:00:18.535 [main] INFO  com.Magento.pages.SigninPageMagento - type email address success
+19:00:18.586 [main] INFO  com.Magento.pages.SigninPageMagento - type password success
+19:00:18.635 [main] INFO  com.Magento.pages.SigninPageMagento - click signin button success
+19:00:18.665 [main] INFO  testMagento.TestSignin - error message validation success
+19:00:22.154 [main] INFO  com.Magento.pages.HomePageMagento - click on signin button success
+19:00:22.159 [main] INFO  testMagento.TestSignin - login title page validation success
+19:00:22.272 [main] INFO  com.Magento.pages.SigninPageMagento - type email address success
+19:00:22.329 [main] INFO  com.Magento.pages.SigninPageMagento - type password success
+19:00:23.710 [main] INFO  com.Magento.pages.SigninPageMagento - click signin button success
+19:00:23.768 [main] INFO  testMagento.TestSignin - error message validation success
+19:00:26.940 [main] INFO  com.Magento.pages.HomePageMagento - click on signin button success
+19:00:26.945 [main] INFO  testMagento.TestSignin - Sign in title page validation success
+19:00:27.061 [main] INFO  com.Magento.pages.SigninPageMagento - type email address success
+19:00:27.124 [main] INFO  com.Magento.pages.SigninPageMagento - type password success
+19:00:27.176 [main] INFO  com.Magento.pages.SigninPageMagento - click signin button success
+19:00:27.177 [main] INFO  testMagento.TestSignin - Signin success
+19:00:30.759 [main] INFO  com.Magento.pages.HomePageMagento - click signin button success
+19:00:30.777 [main] INFO  testMagento.TestCreateNewAccount - create an account title page validation success
+19:00:30.861 [main] INFO  com.Magento.pages.CreatenewAccountPageMagento - type first name success
+19:00:30.904 [main] INFO  com.Magento.pages.CreatenewAccountPageMagento - type last name success
+19:00:30.948 [main] INFO  com.Magento.pages.CreatenewAccountPageMagento - type email address success
+19:00:30.989 [main] INFO  com.Magento.pages.CreatenewAccountPageMagento - type password success
+19:00:31.032 [main] INFO  com.Magento.pages.CreatenewAccountPageMagento - confirm password success
+19:00:31.074 [main] INFO  com.Magento.pages.CreatenewAccountPageMagento - click create account button success
+19:00:31.074 [main] INFO  testMagento.TestCreateNewAccount - Creation of an account success
+19:00:34.292 [main] INFO  com.Magento.pages.HomePageMagento - click on signin button success
+19:00:34.294 [main] INFO  testMagento.TestSearchandCompareItems - login title page validation success
+19:00:35.870 [main] INFO  com.Magento.pages.HomePageMagento - item name type and enter success
+19:00:35.874 [main] INFO  testMagento.TestSearchandCompareItems - searchwatch title page validation success
+19:00:36.047 [main] INFO  com.Magento.pages.SigninPageMagento - hover over Item1 success
+19:00:37.030 [main] INFO  com.Magento.pages.SigninPageMagento - click on add to compare button success
+19:00:37.317 [main] INFO  com.Magento.pages.SigninPageMagento - hover over Item2 success
+19:00:38.196 [main] INFO  com.Magento.pages.SigninPageMagento - click on add to compare button success
+19:00:39.357 [main] INFO  com.Magento.pages.SigninPageMagento - click on compare button success
+19:00:39.395 [main] INFO  com.Magento.pages.SigninPageMagento - click on add to cart button success
+19:00:42.569 [main] INFO  com.Magento.pages.HomePageMagento - click on signin button success
+19:00:42.581 [main] INFO  testMagento.TestCheckOutShoppingCart - login title page validation success
+19:00:42.677 [main] INFO  com.Magento.pages.HomePageMagento - item name type success
+19:00:44.314 [main] INFO  com.Magento.pages.HomePageMagento - click search success
+19:00:44.318 [main] INFO  testMagento.TestCheckOutShoppingCart - search bag title page validation success
+19:00:45.812 [main] INFO  com.Magento.pages.SearchPageMagento - click WayfarerMessengerBag success
+19:35:04.323 [main] INFO  com.Magento.pages.HomePageMagento - click on signin button success
+19:35:04.346 [main] INFO  testMagento.TestSignin - login title page validation success
+19:35:04.674 [main] INFO  com.Magento.pages.SigninPageMagento - type email address success
+19:35:04.723 [main] INFO  com.Magento.pages.SigninPageMagento - type password success
+19:35:04.772 [main] INFO  com.Magento.pages.SigninPageMagento - click signin button success
+19:35:04.804 [main] INFO  testMagento.TestSignin - error message validation success
+19:35:08.599 [main] INFO  com.Magento.pages.HomePageMagento - click on signin button success
+19:35:08.613 [main] INFO  testMagento.TestSignin - login title page validation success
+19:35:08.740 [main] INFO  com.Magento.pages.SigninPageMagento - type email address success
+19:35:08.800 [main] INFO  com.Magento.pages.SigninPageMagento - type password success
+19:35:10.073 [main] INFO  com.Magento.pages.SigninPageMagento - click signin button success
+19:35:10.206 [main] INFO  testMagento.TestSignin - error message validation success
+19:35:15.237 [main] INFO  com.Magento.pages.HomePageMagento - click on signin button success
+19:35:15.250 [main] INFO  testMagento.TestSignin - Sign in title page validation success
+19:35:15.380 [main] INFO  com.Magento.pages.SigninPageMagento - type email address success
+19:35:15.439 [main] INFO  com.Magento.pages.SigninPageMagento - type password success
+19:35:15.485 [main] INFO  com.Magento.pages.SigninPageMagento - click signin button success
+19:35:15.485 [main] INFO  testMagento.TestSignin - Signin success
+19:35:19.096 [main] INFO  com.Magento.pages.HomePageMagento - click signin button success
+19:35:19.108 [main] INFO  testMagento.TestCreateNewAccount - create an account title page validation success
+19:35:19.231 [main] INFO  com.Magento.pages.CreatenewAccountPageMagento - type first name success
+19:35:19.284 [main] INFO  com.Magento.pages.CreatenewAccountPageMagento - type last name success
+19:35:19.332 [main] INFO  com.Magento.pages.CreatenewAccountPageMagento - type email address success
+19:35:19.403 [main] INFO  com.Magento.pages.CreatenewAccountPageMagento - type password success
+19:35:19.469 [main] INFO  com.Magento.pages.CreatenewAccountPageMagento - confirm password success
+19:35:19.552 [main] INFO  com.Magento.pages.CreatenewAccountPageMagento - click create account button success
+19:35:19.553 [main] INFO  testMagento.TestCreateNewAccount - Creation of an account success
+19:35:23.202 [main] INFO  com.Magento.pages.HomePageMagento - click on signin button success
+19:35:23.230 [main] INFO  testMagento.TestSearchandCompareItems - login title page validation success
+19:35:23.934 [main] INFO  com.Magento.pages.HomePageMagento - item name type and enter success
+19:35:23.934 [main] INFO  testMagento.TestSearchandCompareItems - searchwatch title page validation success
+19:35:24.101 [main] INFO  com.Magento.pages.SigninPageMagento - hover over Item1 success
+19:35:25.220 [main] INFO  com.Magento.pages.SigninPageMagento - click on add to compare button success
+19:35:25.527 [main] INFO  com.Magento.pages.SigninPageMagento - hover over Item2 success
+19:35:26.409 [main] INFO  com.Magento.pages.SigninPageMagento - click on add to compare button success
+19:35:27.514 [main] INFO  com.Magento.pages.SigninPageMagento - click on compare button success
+19:35:28.804 [main] INFO  com.Magento.pages.SigninPageMagento - click on add to cart button success
+19:35:32.187 [main] INFO  com.Magento.pages.HomePageMagento - click on signin button success
+19:35:32.196 [main] INFO  testMagento.TestCheckOutShoppingCart - login title page validation success
+19:35:32.300 [main] INFO  com.Magento.pages.HomePageMagento - item name type success
+19:35:33.718 [main] INFO  com.Magento.pages.HomePageMagento - click search success
+19:35:33.737 [main] INFO  testMagento.TestCheckOutShoppingCart - search bag title page validation success
+19:35:34.293 [main] INFO  com.Magento.pages.SearchPageMagento - click WayfarerMessengerBag success
+11:50:49.269 [main] INFO  com.Magento.pages.HomePageMagento - click on signin button success
+11:50:49.312 [main] INFO  testMagento.TestSignin - login title page validation success
+11:50:49.684 [main] INFO  com.Magento.pages.SigninPageMagento - type email address success
+11:50:49.748 [main] INFO  com.Magento.pages.SigninPageMagento - type password success
+11:50:49.812 [main] INFO  com.Magento.pages.SigninPageMagento - click signin button success
+11:50:49.855 [main] INFO  testMagento.TestSignin - error message validation success
+11:50:53.784 [main] INFO  com.Magento.pages.HomePageMagento - click on signin button success
+11:50:53.796 [main] INFO  testMagento.TestSignin - login title page validation success
+11:50:53.962 [main] INFO  com.Magento.pages.SigninPageMagento - type email address success
+11:50:54.042 [main] INFO  com.Magento.pages.SigninPageMagento - type password success
+11:50:55.534 [main] INFO  com.Magento.pages.SigninPageMagento - click signin button success
+11:50:55.686 [main] INFO  testMagento.TestSignin - error message validation success
+11:50:59.462 [main] INFO  com.Magento.pages.HomePageMagento - click on signin button success
+11:50:59.486 [main] INFO  testMagento.TestSignin - Sign in title page validation success
+11:50:59.614 [main] INFO  com.Magento.pages.SigninPageMagento - type email address success
+11:50:59.680 [main] INFO  com.Magento.pages.SigninPageMagento - type password success
+11:50:59.739 [main] INFO  com.Magento.pages.SigninPageMagento - click signin button success
+11:50:59.740 [main] INFO  testMagento.TestSignin - Signin success
+11:51:03.609 [main] INFO  com.Magento.pages.HomePageMagento - click signin button success
+11:51:03.617 [main] INFO  testMagento.TestCreateNewAccount - create an account title page validation success
+11:51:03.770 [main] INFO  com.Magento.pages.CreatenewAccountPageMagento - type first name success
+11:51:03.848 [main] INFO  com.Magento.pages.CreatenewAccountPageMagento - type last name success
+11:51:03.903 [main] INFO  com.Magento.pages.CreatenewAccountPageMagento - type email address success
+11:51:03.961 [main] INFO  com.Magento.pages.CreatenewAccountPageMagento - type password success
+11:51:04.014 [main] INFO  com.Magento.pages.CreatenewAccountPageMagento - confirm password success
+11:51:04.077 [main] INFO  com.Magento.pages.CreatenewAccountPageMagento - click create account button success
+11:51:04.077 [main] INFO  testMagento.TestCreateNewAccount - Creation of an account success
+11:51:08.297 [main] INFO  com.Magento.pages.HomePageMagento - click on signin button success
+11:51:08.326 [main] INFO  testMagento.TestSearchandCompareItems - login title page validation success
+11:51:09.092 [main] INFO  com.Magento.pages.HomePageMagento - item name type and enter success
+11:51:09.092 [main] INFO  testMagento.TestSearchandCompareItems - searchwatch title page validation success
+11:51:09.276 [main] INFO  com.Magento.pages.SigninPageMagento - hover over Item1 success
+11:51:10.352 [main] INFO  com.Magento.pages.SigninPageMagento - click on add to compare button success
+11:51:10.747 [main] INFO  com.Magento.pages.SigninPageMagento - hover over Item2 success
+11:51:11.802 [main] INFO  com.Magento.pages.SigninPageMagento - click on add to compare button success
+11:51:13.021 [main] INFO  com.Magento.pages.SigninPageMagento - click on compare button success
+11:51:13.153 [main] INFO  com.Magento.pages.SigninPageMagento - click on add to cart button success
+11:51:17.295 [main] INFO  com.Magento.pages.HomePageMagento - click on signin button success
+11:51:17.323 [main] INFO  testMagento.TestCheckOutShoppingCart - login title page validation success
+11:51:17.472 [main] INFO  com.Magento.pages.HomePageMagento - item name type success
+11:51:19.304 [main] INFO  com.Magento.pages.HomePageMagento - click search success
+11:51:19.309 [main] INFO  testMagento.TestCheckOutShoppingCart - search bag title page validation success
+11:51:20.478 [main] INFO  com.Magento.pages.SearchPageMagento - click WayfarerMessengerBag success
+11:51:20.538 [main] INFO  com.Magento.pages.WayfarerMessengerBagPageMagento - click add to cart button success
